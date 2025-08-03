@@ -21,7 +21,7 @@ jobs:
       - name: Checkout repository using git
         run: |
           pacman -Sy git grub sudo archiso --noconfirm
-          git clone --recurse-submodules https://github.com/StratOS-Linux/hyprland-iso
+          git clone --recurse-submodules https://github.com/"$(git config --get remote.origin.url | sed -E 's|.+[:/]([^:/]+)/([^/.]+)(\.git)?|\1|')"/hyprland-iso
 
       - name: Set up environment and build ISO
         id: build_iso
