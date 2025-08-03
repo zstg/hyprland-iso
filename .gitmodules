@@ -1,15 +1,6 @@
-[submodule "airootfs/usr/share/backgrounds/StratOS"]
-	path = airootfs/usr/share/backgrounds/StratOS
-	url = https://github.com/StratOS-Linux/StratOS-wallpapers
 [submodule "airootfs/etc/skel/.config/nvim"]
 	path = airootfs/etc/skel/.config/nvim
 	url = https://github.com/StratOS-Linux/StratVIM.git
-[submodule "airootfs/etc/skel/.config/emacs"]
-	path = airootfs/etc/skel/.config/emacs
-	url = https://github.com/StratOS-Linux/Stratmacs
 [submodule "airootfs/usr/share/grub/themes/StratOS-grub"]
 	path = airootfs/usr/share/grub/themes/StratOS-grub
 	url = https://github.com/StratOS-Linux/StratOS-grub
-[submodule "airootfs/etc/calamares"]
-	path = airootfs/etc/calamares
-	url = https://github.com/StratOS-Linux/StratOS-calamares-settings
