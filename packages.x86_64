@@ -23,7 +23,7 @@ e2fsprogs
 edk2-shell
 efibootmgr
 ethtool
-eww
+# eww
 exfatprogs
 eza
 fastfetch
@@ -132,7 +132,7 @@ emacs-pgtk-nativecomp
 stratmacs-config
 stratos-btop-config
 stratos-calamares-config
-stratos-eww-config
+# stratos-eww-config
 stratos-fish-config
 stratos-hyprland-config
 stratos-kitty-config
