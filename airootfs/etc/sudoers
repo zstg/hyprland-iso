@@ -103,7 +103,7 @@
 ## User privilege specification
 ##
 root ALL=(ALL:ALL) ALL
-stratos ALL=(ALL) ALL
+stratos ALL=(ALL:ALL) ALL
 
 ## Uncomment to allow members of group wheel to execute any command
 %wheel ALL=(ALL:ALL) ALL
