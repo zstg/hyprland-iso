@@ -1,6 +1,0 @@
-#!/usr/bin/env zsh 
-if [ "$1" = "--up" ]; then
-    swayosd-client --output-volume raise
-elif [ "$1" = "--down" ]; then
-    swayosd-client --output-volume lower
-fi

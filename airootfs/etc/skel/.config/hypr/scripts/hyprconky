@@ -1,2 +1,0 @@
-#!/usr/bin/env bash
-pgrep conky > /dev/null && (pkill conky) || (conky -q & sleep 0.5 &&  hyprctl dispatch focuswindow Conky > /dev/null)

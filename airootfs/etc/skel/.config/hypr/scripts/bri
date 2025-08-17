@@ -1,8 +1,0 @@
-#!/usr/bin/env zsh 
-if [ "$1" = "--up" ]; then
-    swayosd-client --brightness raise
-elif [ "$1" = "--down" ]; then
-    swayosd-client --brightness lower
-elif [ "$1" = "--get" ]; then
-    echo $(brightnessctl | head -n 2 | tail -n 1 | awk '{print $4}' | tr -d '(%)')
-fi

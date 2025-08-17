@@ -1,2 +1,0 @@
-#!/usr/bin/env fish
-eww close system uptime calendar || eww open-many system uptime calendar

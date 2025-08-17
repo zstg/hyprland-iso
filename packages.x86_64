@@ -10,7 +10,6 @@ bibata-cursor-theme-bin
 broadcom-wl
 calamares
 cmake
-chromium
 dbus
 dhclient
 dhcpcd
@@ -25,7 +24,7 @@ edk2-shell
 efibootmgr
 emacs
 ethtool
-# eww
+eww
 exfatprogs
 eza
 fastfetch
@@ -44,13 +43,13 @@ waybar
 dunst
 pipewire-pulse
 network-manager-applet
-## nwg-clipman
+nwg-clipman
 grim
 slurp
 swappy
 pinentry
 wireplumber
-# pyprland
+pyprland
 hyprland
 hyprcursor
 hyprlock
@@ -130,12 +129,17 @@ smartmontools
 sof-firmware
 squashfs-tools
 starship
+emacs-pgtk-nativecomp
 stratmacs-config
-# stratos-btop-config
+stratos-btop-config
 stratos-calamares-config
+stratos-eww-config
+stratos-fish-config
+stratos-hyprland-config
 stratos-kitty-config
 stratos-mako-config
 stratos-starship-config
+stratos-waybar-hyprland-config
 stratos-wallpapers
 sudo
 syslinux
@@ -151,7 +155,6 @@ noto-fonts
 usb_modeswitch
 usbmuxd
 usbutils
-vim
 wireless-regdb
 wireless_tools
 wget
@@ -163,5 +166,6 @@ xorg
 xorg-server
 yaml-cpp
 yay-bin
-zsh
-zsh-syntax-highlighting
+zen-browser-bin
+# zsh
+# zsh-syntax-highlighting
