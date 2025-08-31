@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-brightnessctl | rg Cur | awk '{print $4}' | tr -d '()%'
-# light | cut -f1 -d .
