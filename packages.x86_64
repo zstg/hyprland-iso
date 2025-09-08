@@ -140,7 +140,7 @@ stratos-fonts
 stratos-hyprland-config
 stratos-kitty-config
 stratos-mako-config
-stratos-starship-config
+stratos-starship-hyprland-config
 stratos-waybar-hyprland-config
 stratos-wallpapers
 sudo
