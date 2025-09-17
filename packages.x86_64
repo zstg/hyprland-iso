@@ -44,6 +44,7 @@ dunst
 pipewire-pulse
 network-manager-applet
 nwg-clipman
+ghostty
 grim
 slurp
 swappy
@@ -70,7 +71,7 @@ iw
 iwd
 jq
 kcrash
-kitty
+# kitty
 kpmcore
 kvantum
 lazygit
@@ -98,7 +99,7 @@ mtools
 nano
 # nbd
 neovim
-gnu-netcat
+# gnu-netcat
 networkmanager
 network-manager-applet
 # nfs-utils
@@ -138,7 +139,7 @@ stratos-eww-config
 stratos-fish-config
 stratos-fonts
 stratos-hyprland-config
-stratos-kitty-config
+# stratos-kitty-config
 stratos-mako-config
 stratos-starship-hyprland-config
 stratos-waybar-hyprland-config
